@@ -1,5 +1,4 @@
 # EvasionIDS
-Herramienta de Nmap para evadir IDS
 
 EvasionIds.sh es un script de bash diseñado para realizar escaneos de puertos de manera pausada y meticulosa, evadiendo sistemas de detección de intrusos (IDS) como Snort. Permite seleccionar entre sistemas Windows o Linux y escanea los 100 puertos más comunes, registrando puertos abiertos y cerrados. Los resultados se guardan en un archivo de texto, con una pausa configurable entre cada escaneo para minimizar la detección. Es ideal para profesionales de seguridad que buscan evaluar la seguridad de redes sin activar alarmas IDS.
 
